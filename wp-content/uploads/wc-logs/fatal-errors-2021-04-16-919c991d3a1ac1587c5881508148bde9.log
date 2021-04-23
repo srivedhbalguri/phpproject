@@ -1,0 +1,129 @@
+2021-04-16T17:56:20+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\update.php(16): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T17:56:26+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin-ajax.php(22): require_once('C:\\xmp\\htdocs\\w...')
+#4 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T17:57:13+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\update.php(16): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T17:57:23+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin-ajax.php(22): require_once('C:\\xmp\\htdocs\\w...')
+#4 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T17:57:33+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\theme-install.php(10): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T17:58:11+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\themes.php(10): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T18:20:27+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\xmp\htdocs\wpfp/wp-content/themes/twentytwentyone/inc/dynamic-styles/admin-global.php' (include_path='C:\xmp\php\PEAR') in C:\xmp\htdocs\wpfp\wp-content\themes\blocksy\inc\helpers.php:607
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-content\themes\blocksy\inc\dynamic-css.php(306): blocksy_get_variables_from_file('C:\\xmp\\htdocs\\w...', Array, NULL)
+#1 C:\xmp\htdocs\wpfp\wp-content\themes\blocksy\inc\dynamic-css.php(128): blocksy_theme_get_dynamic_styles(Array)
+#2 C:\xmp\htdocs\wpfp\wp-content\themes\blocksy\inc\dynamic-css.php(54): Blocksy_Dynamic_Css->load_backend_dynamic_css()
+#3 C:\xmp\htdocs\wpfp\wp-includes\class-wp-hook.php(292): Blocksy_Dynamic_Css->{closure}('')
+#4 C:\xmp\htdocs\wpfp\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#5 C:\xmp\htdocs\wpfp\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\xmp\htdocs\wpfp\wp-includes\functions.wp-scripts.php(95): do_action('wp_print_script...')
+#7 C:\xmp\htdocs\wpfp\wp-includes\class-wp-editor.php(1554): wp_print_scripts(Array)
+#8 C:\xmp\htdocs\wpfp\wp-includes\class-wp-editor.php(1003): _WP_Editors::print_tinymce_scripts()
+#9 C:\xmp\htdocs\wpfp\wp-includes\class-wp-hook.php(292): _WP_Editors::print_default_editor_scripts('')
+#10 C:\xmp\htdocs\wpfp\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#11 C:\xmp\htdocs\wpfp\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#12 C:\xmp\htdocs\wpfp\wp-admin\admin-footer.php(95): do_action('admin_print_foo...')
+#13 C:\xmp\htdocs\wpfp\wp-admin\themes.php(1139): require_once('C:\\xmp\\htdocs\\w...')
+#14 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\blocksy\inc\helpers.php on line 607
+
+2021-04-16T18:40:41+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\index.php(10): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T18:40:41+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\index.php(10): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T18:42:35+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\index.php(10): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T18:46:20+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\index.php(10): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T18:48:42+00:00 CRITICAL Uncaught Error: Undefined constant "‘wp_enqueue_scripts’" in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php:5
+Stack trace:
+#0 C:\xmp\htdocs\wpfp\wp-settings.php(528): include()
+#1 C:\xmp\htdocs\wpfp\wp-config.php(90): require_once('C:\\xmp\\htdocs\\w...')
+#2 C:\xmp\htdocs\wpfp\wp-load.php(37): require_once('C:\\xmp\\htdocs\\w...')
+#3 C:\xmp\htdocs\wpfp\wp-admin\admin.php(34): require_once('C:\\xmp\\htdocs\\w...')
+#4 C:\xmp\htdocs\wpfp\wp-admin\themes.php(10): require_once('C:\\xmp\\htdocs\\w...')
+#5 {main}
+  thrown in C:\xmp\htdocs\wpfp\wp-content\themes\child theme\functions.php on line 5
+
+2021-04-16T20:54:10+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 32768 bytes) in C:\xmp\htdocs\wpfp\wp-admin\includes\template.php on line 1058
+
